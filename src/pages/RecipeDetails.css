@@ -1,101 +1,54 @@
-.details {
-  align-items: center;
-  background-color: #ece7cf;
-  display: flex;
-  flex-direction: column;
-  overflow: scroll;
-  -ms-overflow-style: none;
-  padding: 1rem;
-  scrollbar-width: none;
-}
-
-.details::-webkit-scrollbar {
-  display: none;
-}
-
-.header-details {
-  align-items: center;
-  background-color: #ece7cf;
-  display: flex;
-  padding: 1rem;
-  width: 100%;
-}
-
-.details-component {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.header-details h1 {
-  background-color: #f77f00;
+.recipe-photo {
   border-radius: 10px;
-  color: #ece7cf;
-  max-width: 280px;
-  padding: 1rem 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  width: 90%;
 }
 
-.header-details h3 {
-  background-color: #003049;
-  border-radius: 5px;
-  color: white;
-  font-size: small;
-  padding: 0.1rem 0.35rem;
+.recipe-title {
+  color: #ae2b09;
+  text-align: center;
 }
 
-.details-component img {
-  align-items: center;
-  height: 20rem;
-  object-fit: cover;
-  width: 100%;
+.recipe-categorie {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #ae2b09;
+  margin-top: 2px;
+  text-align: center;
 }
 
 .ingredients {
-  border: solid #f77f00 1px;
+  background-color: #f6f4d2cb;
   border-radius: 10px;
-  color: #003049;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   display: flex;
-  font-size: 0.8rem;
-  font-weight: 300;
-  justify-content: center;
-  padding: 15px;
-  padding-left: 1rem;
-  width: 90%;
+  flex-direction: column;
+  list-style-position: inside;
+  list-style-type: disc;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
 }
 
 .instructions {
-  color: #003049;
-  font-size: 0.9rem;
-  line-height: 1.25rem;
-  text-align: justify;
-  width: 90%;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #333;
+  font-family: Arial , sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  padding: 10px;
 }
 
-.recommendation {
-  display: flex;
-  height: 260px;
-}
-
-.share-and-favorite-btn {
-  display: flex;
-  flex-direction: row;
-}
-
-.start-btn {
-  border: #003049 solid 2px;
-
+.video {
+  width: 100%;
 }
 
 .startRecipe {
-  background-color: #f77f00;
-  border-radius: 5px;
-  bottom: 0;
-  color: #ece7cf;
-  cursor: pointer;
-  font-weight: 600;
-  height: 40px;
-  padding: 7px 0;
-  position: fixed;
-  width: 100%;
+  background-color: #ae2b09;
 }
