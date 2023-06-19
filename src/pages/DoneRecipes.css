@@ -1,0 +1,27 @@
+.done {
+  color: #003049;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+p {
+  color: #a44a3f;
+  text-decoration: none;
+  text-align: center;
+  font-size: smaller;
+}
+
+.finish-filters {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.filter-btn {
+  background-color: #ae2b09;
+  border-radius: 5px;
+  color: white;
+  font-size: large;
+  width: 70px;
+}

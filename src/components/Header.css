@@ -28,7 +28,6 @@
 
 
 .top-itens {
-  background-color: rgba(255, 255, 255, 0);
   margin: 5px;
 }
 
@@ -69,6 +68,12 @@ input {
   text-align: center;
 }
 
+input::placeholder {
+  font-weight: bold;
+  opacity: 0.5;
+  color: #003049;
+}
+
 .search-input {
   background-color: #ece7cf;
   border: #003049 solid 2px;
@@ -88,7 +93,7 @@ button {
 }
 
 .search-btn {
-  background-color: #a44b3f00;
+  background-color: #ae2b09;
   border-radius: 10px;
   color: white;
   cursor: pointer;
@@ -96,8 +101,17 @@ button {
   font-weight: 600;
   height: 40px;
   margin: 0 10px;
+  margin-bottom: 10px;
+  margin-top: -15px;
   padding: 7px 0;
-  width: 30%;
+  padding-bottom: 5px;
+  width: 100%;
+  letter-spacing: 2px;
+}
+
+.search-btn:hover {
+  background-color: #003049;
+  color: #ece7cf;
 }
 
 form {
@@ -140,5 +154,31 @@ form {
 }
 
 .radio-input:checked:before {
+  background-color: #a44a3f;
+}
+
+.ingredients-check .label-opt {
+  margin-left: -10px;
+}
+
+.ingredients-check .radio-input {
+  appearance: none;
+  outline: none;
+}
+
+.ingredients-check .radio-input:before {
+  background-color: transparent;
+  border: 1px solid #0000003f;
+  border-radius: 50%;
+  content: '';
+  display: inline-block;
+  height: 16px;
+  margin-right: 8px;
+  transition: background-color 0.3s ease;
+  vertical-align: middle;
+  width: 16px;
+}
+
+.ingredients-check .radio-input:checked:before {
   background-color: #a44a3f;
 }
