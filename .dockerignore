@@ -1,0 +1,10 @@
+# Arquivos e diretórios que podem ser excluídos
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Arquivos de configuração
+# package-lock.json
+
+# Arquivos temporários
+.DS_Store
