@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Deploy with Docker Compose
-      run: docker-compose up -d
+      run: docker-compose -f ../docker-compose.yaml up -d
       working-directory: .
     - name: Deploy to Server
       uses: easingthemes/ssh-deploy@main
