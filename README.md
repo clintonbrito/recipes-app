@@ -9,7 +9,7 @@
 <h2>🔖 See the results</h2>
 
 <p>You can view the project through the link below:</p>
-<li><a target="_blank" rel="noopener"href="https://clintonbrito.com/recipes-app">clintonbrito.com/recipes-app (soon)</a></li>
+<li><a target="_blank" rel="noopener"href="https://recipes-app.clintonbrito.com/">https://recipes-app.clintonbrito.com/</a></li>
 
 <br>
 <p>You can watch the presentation of the project through the link below:</p>
