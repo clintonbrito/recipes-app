@@ -12,7 +12,7 @@
 <li><a target="_blank" rel="noopener"href="https://clintonbrito.com/recipes-app">clintonbrito.com/recipes-app (soon)</a></li>
 
 <br>
-<p>You can view the watch the presentation of the project through the link below:</p>
+<p>You can watch the presentation of the project through the link below:</p>
 <li><a target="_blank" rel="noopener"href="https://clintonbrito.com/recipes-app/watch">Presensation at the end of Front-end module of Trybe course (soon)</a></li>
 
 
@@ -65,6 +65,9 @@ Open your browser and access the application through the address below to view t
 <li>Paulo Willian - <a target="_blank" rel="noopener" href="https://github.com/paulowos">https://github.com/paulowos</a></li>
 <li>Sueldo Bortnik - <a target="_blank" rel="noopener" href="https://github.com/Sueldo-Bortnik">https://github.com/Sueldo-Bortnik</a></li>
 </ol>
+
+<br>
+<br>
 
 <h2>📝 License</h2>
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
