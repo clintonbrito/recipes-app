@@ -5,7 +5,7 @@ import profileIcon from '../images/profileIcon.svg';
 import searchIcon from '../images/searchIcon.svg';
 import SearchBar from './SearchBar';
 import './Header.css';
-import minilogobrand from '../assests/minilogobrand.png';
+import minilogobrand from '../assets/minilogobrand.png';
 
 export default function Header({ title }) {
   const [search, setSearch] = useState(false);
