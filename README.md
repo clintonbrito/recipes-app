@@ -13,7 +13,7 @@
 
 <br>
 <p>You can watch the presentation of the project through the link below:</p>
-<li><a target="_blank" rel="noopener"href="https://clintonbrito.com/recipes-app/watch">Presensation at the end of Front-end module of Trybe course (soon)</a></li>
+<li><a target="_blank" rel="noopener"href="https://clintonbrito.com/recipes-app/watch">Presentation at the end of Front-end module of Trybe course (soon)</a></li>
 
 
 <br>
