@@ -24,7 +24,7 @@
 
 <p>This project was developed using:</p>
 
-<div align="center">
+<div>
 
   ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,7 +52,7 @@ cd recipes-app
 </code></pre>
 <p>Run this command to create project's Docker container and install the dependencies:</p>
 
-<pre><code>docker-compose up -d</code></pre>
+<pre><code>docker compose up -d</code></pre>
 
 Open your browser and access the application through the address below to view the interface locally:
 
