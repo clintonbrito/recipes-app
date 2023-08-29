@@ -78,8 +78,3 @@ Open your browser and access the application through the address below to view t
 
 <h2>📝 License</h2>
 This project is licensed under the MIT License. See the <a target="_blank" rel="noopener" href="https://github.com/clintonbrito/recipes-app/blob/5c4b1a74ab43a352c393def783f06080b7256088/LICENSE">LICENSE</a> file for details.
-
-<style type="text/css" rel="stylesheet">
-h1, h2{font-weight:bold;}
-p, code{font-size:14px;}
-</style>
