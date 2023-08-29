@@ -6,7 +6,6 @@ WORKDIR /app
 
 # Copie os arquivos de configuração do projeto
 COPY package*.json ./
-COPY package-lock.json ./
 
 # Instale as dependências
 RUN npm install
@@ -21,4 +20,6 @@ RUN npm run build
 EXPOSE 3000
 
 # Comando para iniciar o aplicativo
-CMD ["npm", "start"]
+
+ENTRYPOINT [ "npm", "run" ]
+CMD [ "start" ]
