@@ -1,7 +1,7 @@
 <h1 align="center">Taste Journey - Food & Drink</h1>
 
 <p align="center">
-  <img alt="preview image" src="src/assets/mobile-navigation.gif" width="40rem">
+  <img alt="preview image" src="src/assets/mobile-navigation.gif" width="250px">
 </p>
 
 <br>
@@ -31,11 +31,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![ES Lint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
