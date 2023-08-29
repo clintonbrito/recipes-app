@@ -1,7 +1,7 @@
 <h1 align="center">Taste Journey - Food & Drink</h1>
 
 <p align="center">
-  <img alt="preview image" src="src/assets/mobile-navigation.gif" width="300rem">
+  <img alt="preview image" src="src/assets/mobile-navigation.gif" width="200rem">
 </p>
 
 <br>
